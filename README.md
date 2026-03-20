@@ -1,5 +1,5 @@
 # Metabolomics-based classification
-This repository contains the analysis code used to evaluate metabolomics data for binary classification of cancer using repeated stratified train/test splits, Random Forest models and GINI Index.
+This repository contains the analysis code used to evaluate metabolomics data for binary classification of cancer/control samples using Random Forest models and GINI Index.
 
 ## Manuscript
 This code accompanies the manuscript:
